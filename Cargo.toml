@@ -3,6 +3,8 @@ name = "notepad_logger"
 version = "0.1.0"
 authors = ["Siân Griffin <sean@seantheprogrammer.com>"]
 edition = "2018"
+description = "Log to an open Notepad window on Windows"
+license = "MIT OR Apache-2.0"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 

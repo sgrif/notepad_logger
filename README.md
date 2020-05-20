@@ -12,3 +12,12 @@ and probably shouldn't actually be used for anything. This is just a fun toy
 based on
 https://www.reddit.com/r/programming/comments/gnazif/ray\_tracing\_in\_notepadexe\_at\_30\_fps/fr8uy2l/.
 This probably isn't thread safe.
+
+## License
+
+Licensed under either of these:
+
+ * Apache License, Version 2.0, ([LICENSE-APACHE](LICENSE-APACHE) or
+   https://www.apache.org/licenses/LICENSE-2.0)
+ * MIT license ([LICENSE-MIT](LICENSE-MIT) or
+   https://opensource.org/licenses/MIT)
