@@ -1,5 +1,5 @@
 use winapi::um::winuser::{FindWindowA, FindWindowExA, SendMessageA, EM_REPLACESEL};
-use log::{Log, Record, Level, Metadata};
+use log::{Log, Record, Metadata};
 use std::ffi::CString;
 use std::ptr;
 
